@@ -9,3 +9,5 @@ A responsive multi-page EdTech web application for IIT and NEET aspirants, desig
 - JavaScript
 
 > Project setup and documentation in progress.
+## Status
+Home page and base styling added.

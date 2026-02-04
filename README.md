@@ -10,4 +10,6 @@ A responsive multi-page EdTech web application for IIT and NEET aspirants, desig
 
 > Project setup and documentation in progress.
 ## Status
-Home page and base styling added.
+1.Home page and base styling added.
+2.Added About and Contact pages.
+

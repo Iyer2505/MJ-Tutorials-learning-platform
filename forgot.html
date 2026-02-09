@@ -1,0 +1,52 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="assets/css/forgot.css">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <div class="container forget-password">
+            <div class="row">
+                <div class="col-md-12 col-md-offset-4">
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            <div class="text-center">
+                                <img src="https://img.icons8.com/dusk/64/000000/forgot-password.png"/>
+                                <h2 class="text-center">Forgot Password?</h2>
+                                <p>You can reset your password here.</p>
+                                <form id="register-form" role="form" autocomplete="off" class="form" method="post">
+                                    <div class="form-group" id="form"><div id="from-text">
+                                      <input id="forgetAnswer" name="forgetemail" placeholder="E-Mail" class="form-control" style="margin-bottom: 3%" type="text" required >
+                                      <input id="forgetAnswer" name="forgetpass" placeholder="New Password" class="form-control" style="margin-bottom: 3%" type="password" required >
+                                      <input id="forgetAnswer" name="forgetconfpass" placeholder="Confirm Password" class="form-control" style="margin-bottom: 3%" type="text" required >
+                                      <div>
+                                        <div class="input-group">
+                                            <select class="form-control" style="margin-bottom: 3%" id="sel1">
+                                                <option selected="true" disabled="disabled">Please Select Security Question</option>
+                                                <option>Which is your favorite movie?</option>
+                                                <option>What is your pet's name?</option>
+                                                <option>What is the name of your village?</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <span class="input-group-addon"><i class="glyphicon glyphicon-envelope color-blue"></i></span>
+                                            <input id="forgetAnswer" name="forgetAnswer" placeholder="Answer" class="form-control" style="margin-bottom:3%" type="text" required >
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <input name="btnForget" class="btn btn-lg btn-primary btn-block btnForget" id="butn" value="Reset Password" type="submit">
+                                      <a href="/Signin.html" id="butn1">Back</a>
+                                    </div>
+
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+  </body>
+</html>

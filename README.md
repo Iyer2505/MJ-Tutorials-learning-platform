@@ -15,4 +15,5 @@ A responsive multi-page EdTech web application for IIT and NEET aspirants, desig
 3.Add courses listing and course details pages
 4.Added trainers profiles and student success stories pages.
 5.Added pricing plans page.
+6.Added client-side scripts for UI interactions.
 

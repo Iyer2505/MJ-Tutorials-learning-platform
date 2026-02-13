@@ -51,12 +51,10 @@ mj-tutorials-learning-platform/
 ├── Signin.html  
 ├── forgot.html  
 ├── profile.html  
-├── edit-profile.html  
-
-├── assets/  
-│   ├── css/  
-│   ├── js/  
-│   ├── img/  
+├── edit-profile.html   
+├── css/  
+├── js/  
+├── img/  
 
 └── screenshot/  
     ├── home.png  
